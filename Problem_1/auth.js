@@ -2,9 +2,9 @@ const authenticationData = {
     "companyName": "martMed",
     "clientID": "0198925a-cdc8-4769-8439-13aefc6c0628",
     "clientSecret": "TAOIjhwdbvIDSPCg",
-    "ownerName": "Chinmai H K",
-    "ownerEmail": "chinmaihk3@gmail.com",
-    "rollNo": "4VV21CS038"
+    "ownerName": "ownerNaem",
+    "ownerEmail": "mymail@gmail.com",
+    "rollNo": "1"
 }
 
 export async function authenticateMyself(){

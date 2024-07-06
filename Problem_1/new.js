@@ -2,10 +2,10 @@
 async function registerUser() {
     const registrationData = {
         companyName: 'martMed',
-        ownerName: 'Chinmai H K',
-        rollNo: '4VV21CS038',
-        ownerEmail: 'chinmaihk3@gmail.com',
-        accessCode: 'pwiPKW'
+        ownerName: 'Myname',
+        rollNo: '1',
+        ownerEmail: 'myMail@gmail.com',
+        accessCode: 'accesscode'
     };
 
     try {
